@@ -14,3 +14,6 @@ img{
 ul{
     list-style: none;
 }
+body{
+    position: relative;
+}
